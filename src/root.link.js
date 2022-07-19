@@ -1,0 +1,9 @@
+export const RESUME_PATH = 'https://google.com/';
+export const GITHUB_USERNAME = 'Kl1menko';
+export const LINKEDIN_USERNAME = 'null';
+export const FIRST_NAME = 'Vitaliy';
+export const LAST_NAME = 'Klimenko';
+export const ADDRESS = 'Vinnitsa, UA'
+export const EMAIL_ID = 'klimenko.vitaliy2016@icloud.com';
+export const FRONT_PAGE_NAME = 'Vitaliy Klimenko';
+export const FRONT_PAGE_DESC = 'A Frontend Developer.I like to build things for web and solving problems.'
